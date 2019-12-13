@@ -7,7 +7,6 @@ module.exports = ({
   react,
   typescript,
   nodePaths = undefined,
-  monorepo = {},
 } = {}) => ({
   extends: [
     react ? 'airbnb' : 'airbnb-base',
@@ -35,6 +34,6 @@ module.exports = ({
     },
   },
   overrides: [
-    ...(typescript ? [typescriptOverride({ monorepo })] : []),
+    ...(typescript ? [typescriptOverride()] : []),
   ],
 });

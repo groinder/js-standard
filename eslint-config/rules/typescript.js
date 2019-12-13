@@ -1,9 +1,7 @@
 const { join } = require('path');
 
-module.exports = ({ monorepo } = {}) => {
-  const tsconfigPath = monorepo.packagePath
-    ? join(monorepo.packagePath, '/*/tsconfig.json')
-    : './tsconfig.json';
+module.exports = () => {
+  const tsconfigPath = './tsconfig.json';
 
   return {
     files: ['*.ts', '*.tsx'],

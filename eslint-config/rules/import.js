@@ -7,4 +7,5 @@ module.exports = {
       'newlines-between': 'never',
     },
   ],
+  'import/extensions': 0,
 };
