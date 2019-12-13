@@ -1,0 +1,17 @@
+{
+  "name": "@groinder/prettier-config",
+  "version": "1.0.0",
+  "description": "Groinder's Prettier config",
+  "main": "index.json",
+  "author": "groinder",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/groinder/js-boilerplate/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/groinder/js-boilerplate.git",
+    "directory": "prettier-config"
+  },
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}

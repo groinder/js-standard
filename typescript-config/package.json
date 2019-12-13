@@ -1,0 +1,14 @@
+{
+  "name": "@groinder/typescript-config",
+  "version": "1.0.0",
+  "description": "Groinder's TypeScript config",
+  "main": "index.json",
+  "author": "groinder",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/groinder/js-boilerplate/typescript-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/groinder/js-boilerplate.git",
+    "directory": "typescript-config"
+  }
+}
