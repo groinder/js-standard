@@ -5,10 +5,10 @@
   "main": "index.json",
   "author": "groinder",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/groinder/js-boilerplate/typescript-config",
+  "homepage": "https://github.com/groinder/js-standard/typescript-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/groinder/js-boilerplate.git",
+    "url": "https://github.com/groinder/js-standard.git",
     "directory": "typescript-config"
   }
 }

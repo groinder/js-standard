@@ -5,10 +5,10 @@
   "main": "index.js",
   "author": "groinder",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/groinder/js-boilerplate/stylelint-config",
+  "homepage": "https://github.com/groinder/js-standard/stylelint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/groinder/js-boilerplate.git",
+    "url": "https://github.com/groinder/js-standard.git",
     "directory": "stylelint-config"
   },
   "dependencies": {
