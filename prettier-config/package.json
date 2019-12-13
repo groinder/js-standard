@@ -5,6 +5,7 @@
   "main": "index.json",
   "author": "groinder",
   "license": "UNLICENSED",
+  "private": false,
   "homepage": "https://github.com/groinder/js-standard/prettier-config",
   "repository": {
     "type": "git",
